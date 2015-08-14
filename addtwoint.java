@@ -1,12 +1,12 @@
 
 
 public class addtwoint{
-public static void main(Sting[]args){
+public static void main(String[]args){
 
-a = 2
-b = 4
-c = a+b
-System.out.println("c");
+int a = 2;
+int b = 4;
+int c = a+b;
+System.out.println(c);
 }
 }
 
